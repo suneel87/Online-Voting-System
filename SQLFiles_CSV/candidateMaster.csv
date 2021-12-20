@@ -1,0 +1,16 @@
+﻿candidateID,canElectionID,candidateName,canPartyID,canConstituencyID,candidateSymbol,candidateIcon,candidateGender
+1,1,Candidate 1,9,153,Pen,/data/PartySymbols/pen.jpg,F
+2,2,Candidate 2,7,3,Hand,/data/PartySymbols/hand.jpg,F
+3,1,Candidate 3,5,9,Elephant,/data/PartySymbols/elephant.jpg,F
+4,2,Candidate 4,7,3,Lion,/data/PartySymbols/lion.jpg,M
+5,2,Candidate 5,2,153,Lotus,/data/PartySymbols/lotus.jpg,F
+6,1,Candidate 6,4,110,Eagle,/data/PartySymbols/eagle.jpg,M
+7,1,Candidate 7,1,3,Bottle,/data/PartySymbols/bottle.jpg,M
+8,2,Candidate 8,4,110,Chair,/data/PartySymbols/chair.jpg,M
+9,1,Candidate 9,2,153,Slipper,/data/PartySymbols/slipper.jpg,F
+10,1,Candidate 10,8,53,Wheel,/data/PartySymbols/wheel.jpg,F
+11,2,Candidate 11,9,85,Feather,/data/PartySymbols/feather.jpg,M
+12,2,Candidate 12,2,41,Truck,/data/PartySymbols/truck.jpg,M
+13,2,Candidate 13,5,167,Table,/data/PartySymbols/table.jpg,M
+14,1,Candidate 14,7,11,Spoon,/data/PartySymbols/spoon.jpg,F
+15,1,Candidate 15,2,41,Door,/data/PartySymbols/door.jpg,M

@@ -1,0 +1,201 @@
+﻿constituencyID,constituencyState,constituencyName,constituencyType,constituencyDistrict,constituencyReservation
+1,Andhra Pradesh,Amalapuram,Parliament,East Godavari,ST
+2,Andhra Pradesh,Anakapalle,Parliament,East Godavari,ST
+3,Andhra Pradesh,Anantapur,Parliament,East Godavari,ST
+4,Andhra Pradesh,Araku,Parliament,East Godavari,ST
+5,Andhra Pradesh,Bapatla,Parliament,East Godavari,ST
+6,Andhra Pradesh,Chittoor,Parliament,East Godavari,ST
+7,Andhra Pradesh,Eluru,Parliament,East Godavari,ST
+8,Andhra Pradesh,Guntur,Parliament,East Godavari,ST
+9,Andhra Pradesh,Hindupur,Parliament,East Godavari,ST
+10,Andhra Pradesh,kadapa,Parliament,East Godavari,ST
+11,Andhra Pradesh,Kakinada,Parliament,East Godavari,ST
+12,Andhra Pradesh,Kurnool,Parliament,East Godavari,ST
+13,Andhra Pradesh,Machilipatnam,Parliament,East Godavari,ST
+14,Andhra Pradesh,Nandyal,Parliament,East Godavari,ST
+15,Andhra Pradesh,Narasaraopet,Parliament,East Godavari,ST
+16,Andhra Pradesh,Narsapuram,Parliament,East Godavari,ST
+17,Andhra Pradesh,Nellore,Parliament,East Godavari,ST
+18,Andhra Pradesh,Ongole,Parliament,East Godavari,ST
+19,Andhra Pradesh,Rajahmundry,Parliament,East Godavari,ST
+20,Andhra Pradesh,Rajampet,Parliament,East Godavari,ST
+21,Andhra Pradesh,Srikakulam,Parliament,East Godavari,ST
+22,Andhra Pradesh,Tirupathi,Parliament,East Godavari,ST
+23,Andhra Pradesh,Vijayawada,Parliament,East Godavari,ST
+24,Andhra Pradesh,Visakhapatnam,Parliament,East Godavari,ST
+25,Andhra Pradesh,Vizianagaram,Parliament,East Godavari,SC
+26,Andhra Pradesh,Ichchapuram,Assembly,Srikakulam,SC
+27,Andhra Pradesh,Palasa,Assembly,Srikakulam,SC
+28,Andhra Pradesh,Tekkali,Assembly,Srikakulam,SC
+29,Andhra Pradesh,Pathapatnam,Assembly,Srikakulam,SC
+30,Andhra Pradesh,Srikakulam,Assembly,Srikakulam,SC
+31,Andhra Pradesh,Amadalavalasa,Assembly,Srikakulam,SC
+32,Andhra Pradesh,Etcherla,Assembly,Srikakulam,SC
+33,Andhra Pradesh,Narasannapeta,Assembly,Srikakulam,SC
+34,Andhra Pradesh,Rajam,Assembly,Srikakulam,SC
+35,Andhra Pradesh,Palakonda,Assembly,Srikakulam,ST
+36,Andhra Pradesh,Kurupam,Assembly,Vizianagaram,ST
+37,Andhra Pradesh,Parvathipuram,Assembly,Vizianagaram,SC
+38,Andhra Pradesh,Salur,Assembly,Vizianagaram,ST
+39,Andhra Pradesh,Bobbili,Assembly,Vizianagaram,ST
+40,Andhra Pradesh,Cheepurupalli,Assembly,Vizianagaram,ST
+41,Andhra Pradesh,Gajapathinagaram,Assembly,Vizianagaram,ST
+42,Andhra Pradesh,Nellimarla,Assembly,Vizianagaram,ST
+43,Andhra Pradesh,Vizianagaram,Assembly,Vizianagaram,ST
+44,Andhra Pradesh,Srungavarapukota,Assembly,Vizianagaram,ST
+45,Andhra Pradesh,Bhimili,Assembly,Visakhapatnam,SC
+46,Andhra Pradesh,Visakhapatnam East,Assembly,Visakhapatnam,SC
+47,Andhra Pradesh,Visakhapatnam South,Assembly,Visakhapatnam,SC
+48,Andhra Pradesh,Visakhapatnam North,Assembly,Visakhapatnam,SC
+49,Andhra Pradesh,Visakhapatnam West,Assembly,Visakhapatnam,SC
+50,Andhra Pradesh,Gajuwaka,Assembly,Visakhapatnam,SC
+51,Andhra Pradesh,Chodavaram,Assembly,Visakhapatnam,SC
+52,Andhra Pradesh,Madugula,Assembly,Visakhapatnam,SC
+53,Andhra Pradesh,Araku Valley,Assembly,Visakhapatnam,ST
+54,Andhra Pradesh,Paderu,Assembly,Visakhapatnam,ST
+55,Andhra Pradesh,Anakapalle,Assembly,Visakhapatnam,SC
+56,Andhra Pradesh,Pendurthi,Assembly,Visakhapatnam,SC
+57,Andhra Pradesh,Elamanchili,Assembly,Visakhapatnam,SC
+58,Andhra Pradesh,Payakaraopet,Assembly,Visakhapatnam,SC
+59,Andhra Pradesh,Narsipatnam,Assembly,Visakhapatnam,SC
+60,Andhra Pradesh,Tuni,Assembly,East Godavari,SC
+61,Andhra Pradesh,Prathipadu,Assembly,East Godavari,SC
+62,Andhra Pradesh,Pithapuram,Assembly,East Godavari,SC
+63,Andhra Pradesh,Kakinada Rural,Assembly,East Godavari,SC
+64,Andhra Pradesh,Peddapuram,Assembly,East Godavari,SC
+65,Andhra Pradesh,Anaparthy,Assembly,East Godavari,SC
+66,Andhra Pradesh,Kakinada City,Assembly,East Godavari,SC
+67,Andhra Pradesh,Ramachandrapuram,Assembly,East Godavari,SC
+68,Andhra Pradesh,Mummidivaram,Assembly,East Godavari,SC
+69,Andhra Pradesh,Amalapuram,Assembly,East Godavari,SC
+70,Andhra Pradesh,Razole,Assembly,East Godavari,SC
+71,Andhra Pradesh,Gannavaram,Assembly,East Godavari,SC
+72,Andhra Pradesh,Kothapeta,Assembly,East Godavari,SC
+73,Andhra Pradesh,Mandapeta,Assembly,East Godavari,SC
+74,Andhra Pradesh,Rajanagaram,Assembly,East Godavari,SC
+75,Andhra Pradesh,Rajahmundry City,Assembly,East Godavari,SC
+76,Andhra Pradesh,Rajahmundry Rural,Assembly,East Godavari,SC
+77,Andhra Pradesh,Jaggampeta,Assembly,East Godavari,SC
+78,Andhra Pradesh,Rampachodavaram,Assembly,East Godavari,ST
+79,Andhra Pradesh,Kovvur,Assembly,West Godavari,SC
+80,Andhra Pradesh,Nidadavole,Assembly,West Godavari,ST
+81,Andhra Pradesh,Achanta,Assembly,West Godavari,SC
+82,Andhra Pradesh,Palakollu,Assembly,West Godavari,ST
+83,Andhra Pradesh,Narasapuram,Assembly,West Godavari,SC
+84,Andhra Pradesh,Bhimavaram,Assembly,West Godavari,SC
+85,Andhra Pradesh,Undi,Assembly,West Godavari,SC
+86,Andhra Pradesh,Tanuku,Assembly,West Godavari,ST
+87,Andhra Pradesh,Tadepalligudem,Assembly,West Godavari,ST
+88,Andhra Pradesh,Unguturu,Assembly,West Godavari,ST
+89,Andhra Pradesh,Denduluru,Assembly,West Godavari,ST
+90,Andhra Pradesh,Eluru,Assembly,West Godavari,ST
+91,Andhra Pradesh,Gopalapuram,Assembly,West Godavari,SC
+92,Andhra Pradesh,Polavaram,Assembly,West Godavari,ST
+93,Andhra Pradesh,Chintalapudi,Assembly,West Godavari,SC
+94,Andhra Pradesh,Tiruvuru,Assembly,Krishna_district,SC
+95,Andhra Pradesh,Nuzvid,Assembly,Krishna_district,SC
+96,Andhra Pradesh,Gannavaram,Assembly,Krishna_district,SC
+97,Andhra Pradesh,Gudivada,Assembly,Krishna_district,SC
+98,Andhra Pradesh,Kaikalur,Assembly,Krishna_district,SC
+99,Andhra Pradesh,Pedana,Assembly,Krishna_district,SC
+100,Andhra Pradesh,Machilipatnam,Assembly,Krishna_district,SC
+101,Andhra Pradesh,Avanigadda,Assembly,Krishna_district,SC
+102,Andhra Pradesh,Pamarru,Assembly,Krishna_district,SC
+103,Andhra Pradesh,Penamaluru,Assembly,Krishna_district,ST
+104,Andhra Pradesh,Vijayawada West,Assembly,Krishna_district,ST
+105,Andhra Pradesh,Vijayawada Central,Assembly,Krishna_district,ST
+106,Andhra Pradesh,Vijayawada East,Assembly,Krishna_district,ST
+107,Andhra Pradesh,Mylavaram,Assembly,Krishna_district,ST
+108,Andhra Pradesh,Nandigama,Assembly,Krishna_district,SC
+109,Andhra Pradesh,Jaggayyapeta,Assembly,Krishna_district,ST
+110,Andhra Pradesh,Pedakurapadu,Assembly,Guntur,ST
+111,Andhra Pradesh,Tadikonda,Assembly,Guntur,SC
+112,Andhra Pradesh,Mangalagiri,Assembly,Guntur,ST
+113,Andhra Pradesh,Ponnuru,Assembly,Guntur,ST
+114,Andhra Pradesh,Vemuru,Assembly,Guntur,SC
+115,Andhra Pradesh,Repalle,Assembly,Guntur,ST
+116,Andhra Pradesh,Tenali,Assembly,Guntur,ST
+117,Andhra Pradesh,Bapatla,Assembly,Guntur,ST
+118,Andhra Pradesh,Prathipadu,Assembly,Guntur,SC
+119,Andhra Pradesh,Guntur West,Assembly,Guntur,ST
+120,Andhra Pradesh,Guntur East,Assembly,Guntur,ST
+121,Andhra Pradesh,Chilakaluripet,Assembly,Guntur,ST
+122,Andhra Pradesh,Narasaraopet,Assembly,Guntur,ST
+123,Andhra Pradesh,Sattenapalle,Assembly,Guntur,SC
+124,Andhra Pradesh,Vinukonda,Assembly,Guntur,SC
+125,Andhra Pradesh,Gurajala,Assembly,Guntur,SC
+126,Andhra Pradesh,Macherla,Assembly,Guntur,SC
+127,Andhra Pradesh,Yerragondapalem,Assembly,Prakasam,SC
+128,Andhra Pradesh,Darsi,Assembly,Prakasam,SC
+129,Andhra Pradesh,Parchur,Assembly,Prakasam,SC
+130,Andhra Pradesh,Addanki,Assembly,Prakasam,SC
+131,Andhra Pradesh,Chirala,Assembly,Prakasam,SC
+132,Andhra Pradesh,Santhanuthalapadu,Assembly,Prakasam,SC
+133,Andhra Pradesh,Ongole,Assembly,Prakasam,SC
+134,Andhra Pradesh,Kandukur,Assembly,Prakasam,SC
+135,Andhra Pradesh,Kondapi,Assembly,Prakasam,SC
+136,Andhra Pradesh,Markapuram,Assembly,Prakasam,ST
+137,Andhra Pradesh,Giddalur,Assembly,Prakasam,ST
+138,Andhra Pradesh,Kanigiri,Assembly,Prakasam,ST
+139,Andhra Pradesh,Kavali,Assembly,Nellore,ST
+140,Andhra Pradesh,Atmakur,Assembly,Nellore,ST
+141,Andhra Pradesh,Kovur,Assembly,Nellore,ST
+142,Andhra Pradesh,Nellore City,Assembly,Nellore,ST
+143,Andhra Pradesh,Nellore Rural,Assembly,Nellore,ST
+144,Andhra Pradesh,Sarvepalli,Assembly,Nellore,ST
+145,Andhra Pradesh,Gudur,Assembly,Nellore,SC
+146,Andhra Pradesh,Sullurpeta,Assembly,Nellore,SC
+147,Andhra Pradesh,Venkatagiri,Assembly,Nellore,ST
+148,Andhra Pradesh,Udayagiri,Assembly,Nellore,ST
+149,Andhra Pradesh,Badvel,Assembly,Kadapa,SC
+150,Andhra Pradesh,Rajampet,Assembly,Kadapa,ST
+151,Andhra Pradesh,Kadapa,Assembly,Kadapa,SC
+152,Andhra Pradesh,Kodur,Assembly,Kadapa,SC
+153,Andhra Pradesh,Rayachoti,Assembly,Kadapa,ST
+154,Andhra Pradesh,Pulivendla,Assembly,Kadapa,ST
+155,Andhra Pradesh,Kamalapuram,Assembly,Kadapa,ST
+156,Andhra Pradesh,Jammalamadugu,Assembly,Kadapa,ST
+157,Andhra Pradesh,Proddatur,Assembly,Kadapa,ST
+158,Andhra Pradesh,Mydukur,Assembly,Kadapa,ST
+159,Andhra Pradesh,Allagadda,Assembly,Kurnool,SC
+160,Andhra Pradesh,Srisailam,Assembly,Kurnool,SC
+161,Andhra Pradesh,Nandikotkur,Assembly,Kurnool,SC
+162,Andhra Pradesh,Kurnool,Assembly,Kurnool,ST
+163,Andhra Pradesh,Panyam,Assembly,Kurnool,SC
+164,Andhra Pradesh,Nandyal,Assembly,Kurnool,SC
+165,Andhra Pradesh,Banaganapalle,Assembly,Kurnool,ST
+166,Andhra Pradesh,Dhone,Assembly,Kurnool,ST
+167,Andhra Pradesh,Pattikonda,Assembly,Kurnool,ST
+168,Andhra Pradesh,Kodumur,Assembly,Kurnool,SC
+169,Andhra Pradesh,Yemmiganur,Assembly,Kurnool,SC
+170,Andhra Pradesh,Mantralayam,Assembly,Kurnool,SC
+171,Andhra Pradesh,Adoni,Assembly,Kurnool,ST
+172,Andhra Pradesh,Alur,Assembly,Kurnool,ST
+173,Andhra Pradesh,Rayadurg,Assembly,Anantapur,SC
+174,Andhra Pradesh,Uravakonda,Assembly,Anantapur,SC
+175,Andhra Pradesh,Guntakal,Assembly,Anantapur,ST
+176,Andhra Pradesh,Tadipatri,Assembly,Anantapur,SC
+177,Andhra Pradesh,Singanamala,Assembly,Anantapur,SC
+178,Andhra Pradesh,Anantapur Urban,Assembly,Anantapur,SC
+179,Andhra Pradesh,Kalyandurg,Assembly,Anantapur,SC
+180,Andhra Pradesh,Raptadu,Assembly,Anantapur,ST
+181,Andhra Pradesh,Madakasira,Assembly,Anantapur,SC
+182,Andhra Pradesh,Hindupur,Assembly,Anantapur,ST
+183,Andhra Pradesh,Penukonda,Assembly,Anantapur,ST
+184,Andhra Pradesh,Puttaparthi,Assembly,Anantapur,ST
+185,Andhra Pradesh,Dharmavaram,Assembly,Anantapur,ST
+186,Andhra Pradesh,Kadiri,Assembly,Anantapur,ST
+187,Andhra Pradesh,Thamballapalle,Assembly,Chittoor,ST
+188,Andhra Pradesh,Pileru,Assembly,Chittoor,ST
+189,Andhra Pradesh,Madanapalle,Assembly,Chittoor,ST
+190,Andhra Pradesh,Punganur,Assembly,Chittoor,ST
+191,Andhra Pradesh,Chandragiri,Assembly,Chittoor,ST
+192,Andhra Pradesh,Tirupati,Assembly,Chittoor,ST
+193,Andhra Pradesh,Srikalahasti,Assembly,Chittoor,ST
+194,Andhra Pradesh,Sathyavedu,Assembly,Chittoor,SC
+195,Andhra Pradesh,Nagari,Assembly,Chittoor,SC
+196,Andhra Pradesh,Gangadhara Nellore,Assembly,Chittoor,SC
+197,Andhra Pradesh,Chittoor,Assembly,Chittoor,SC
+198,Andhra Pradesh,Puthalapattu,Assembly,Chittoor,SC
+199,Andhra Pradesh,Palamaner,Assembly,Chittoor,SC
+200,Andhra Pradesh,Kuppam,Assembly,Chittoor,SC
